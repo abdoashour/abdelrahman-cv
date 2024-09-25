@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdelrahman Ashour's CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        section {
+            margin-bottom: 30px;
+        }
+        h2 {
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Abdelrahman Ashour</h1>
+        <p>Email: <a href="mailto:abdelrahman.ashourr@gmail.com">abdelrahman.ashourr@gmail.com</a></p>
+        <p>Website: <a href="https://www.abdelrahman-ashour.com" target="_blank">abdelrahman-ashour.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/abdelrahmanashourr" target="_blank">linkedin.com/in/abdelrahmanashourr</a></p>
+        <p>Tel: <a href="https://wa.me/201060707722">+201060707722</a></p>
+    </header>
+
+    <section>
+        <h2>Summary</h2>
+        <p>ERPNext implementer, highly skilled financial accountant with over 6 years of experience in tax accounting and auditing. Capable of handling accounts transactions, reviewing financial documents, and solving discrepancies. A professional freelancer proficient in AI tools and remote work methods.</p>
+    </section>
+
+    <section>
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>Financial Director & Auditor | ELPH – Egyptian Lab for Poultry Health | 2024-Present</strong>
+                <ul>
+                    <li>Managing public and private accounts for four branches.</li>
+                    <li>Preparing and analyzing financial reports.</li>
+                    <li>Developing future financial plans for expansion.</li>
+                </ul>
+            </li>
+            <li><strong>Financial Director & Auditor | MMA Egyptian-Lebanese Joint Stock Company | 2024-Present</strong>
+                <ul>
+                    <li>Preparing and reviewing financial statements.</li>
+                    <li>Conducting feasibility studies for expansion.</li>
+                </ul>
+            </li>
+            <li><strong>E-Invoice Trainer | Dar Al-Khebrah for Tax & Financial Consultancy | 2024-Present</strong>
+                <ul>
+                    <li>Creating content for Egyptian electronic invoicing system training.</li>
+                    <li>Managing training courses for accountants.</li>
+                </ul>
+            </li>
+            <li><strong>Internal Auditor | Ostia Verde Company | 2024-Present</strong>
+                <ul>
+                    <li>Analyzing accounting documentation and evaluating financial data.</li>
+                </ul>
+            </li>
+            <li><strong>Financial & Tax Accountant | Dar Al-Khebrah | 2023-Present</strong>
+                <ul>
+                    <li>Verifying financial transactions and assisting in audits.</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li><strong>Master's Researcher | Sadat University | 2022-Present</strong></li>
+            <li><strong>Bachelor of Commerce | Al-Azhar University | 2020</strong></li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>ERPNext Implementation</li>
+            <li>Tax Accounting & Auditing</li>
+            <li>Artificial Intelligence (AI) Tools</li>
+            <li>Project Management</li>
+            <li>Team Leadership</li>
+            <li>Financial Reporting & Analysis</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Courses & Certifications</h2>
+        <ul>
+            <li>ERPNext for Beginners | Frappe School, India | 2024</li>
+            <li>Certificate in AI Series for Business Development | TIEC, ITIDA, MCIT | 2024</li>
+            <li>Digital Transformation Course | Supreme Council of Universities | 2022</li>
+            <li>IFRS Preparation | Self-learning | 2024</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Languages</h2>
+        <ul>
+            <li><strong>Arabic:</strong> Native</li>
+            <li><strong>English:</strong> Excellent</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Conferences & Research</h2>
+        <ul>
+            <li>Presented research on the use of big data techniques in tax accounting at Sadat University’s 2024 Scientific Conference.</li>
+            <li>Participated in numerous webinars on AI, digital transformation, and cybersecurity.</li>
+        </ul>
+    </section>
+
+</body>
+</html>
